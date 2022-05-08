@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13160F902822C26800634997 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13160F8F2822C26800634997 /* main.cpp */; };
+		13160F972822C2A200634997 /* gold_mine.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13160F962822C2A200634997 /* gold_mine.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		13160F8C2822C26800634997 /* goldMine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = goldMine; sourceTree = BUILT_PRODUCTS_DIR; };
-		13160F8F2822C26800634997 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		13160F962822C2A200634997 /* gold_mine.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = gold_mine.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		13160F8E2822C26800634997 /* goldMine */ = {
 			isa = PBXGroup;
 			children = (
-				13160F8F2822C26800634997 /* main.cpp */,
+				13160F962822C2A200634997 /* gold_mine.cpp */,
 			);
 			path = goldMine;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13160F902822C26800634997 /* main.cpp in Sources */,
+				13160F972822C2A200634997 /* gold_mine.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
